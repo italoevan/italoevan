@@ -1,9 +1,9 @@
-### Olá!! 
+### Hello!!! 
 
 
 
-- 🔭 Atualmente trabalhando com Flutter e desenvolvimento Android
-- 🌱 Estudando Spring e desenvolvimento backend
+- 🔭 Currently working with Flutter and Android development. 
+- 🌱 Studying Spring and backend environment. 
 
  <div>
   <a href="https://github.com/italoevan">
