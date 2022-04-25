@@ -3,7 +3,7 @@
 
 
 - 🔭 Currently working with Flutter and Android development. 
-- 🌱 Studying Spring and backend environment. 
+- 🌱 Studying Node and backend environment. 
 
  <div>
   <a href="https://github.com/italoevan">
