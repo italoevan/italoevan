@@ -5,12 +5,11 @@
 - 🔭 Currently working with Flutter and Android development. 
 - 🌱 Studying Node and backend environment. 
 
-<!--  <div>
+  <div>
   <a href="https://github.com/italoevan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italoevan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoevan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-   -->
 <div style="display: inline_block"><br>
   <img align="center" alt "Evan-Dart" height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
 <img align="center" alt "Evan-Dart" height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
