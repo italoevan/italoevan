@@ -2,7 +2,7 @@
 
 <img src="https://sdk.bitmoji.com/render/panel/afdff8cf-a808-402c-a0de-a2384411b9eb-75df553d-6e9a-45be-9e71-06028402bc3f-v1.png?transparent=1&palette=1" height="80px">
 
-- 🔭 Currently working with Flutter and Android development. 
+- 🔭 Currently working with Flutter and iOS development. 
  
 
   <div>
